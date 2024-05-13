@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 07.04.2024
+## Date: 
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -66,12 +66,7 @@ Execute the programs and publish them.
 
 </html>
 ```
-
 ## OUTPUT
 ![image](https://github.com/Jai-Pradhiksha/NearMe/assets/100289733/19190f82-ccb9-4f23-8dd5-8106f5115c0f)
-
-
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
